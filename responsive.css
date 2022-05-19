@@ -1,0 +1,53 @@
+
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+
+ }
+
+ /* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .sec1 {
+        width: 100vh;
+    }
+    button.btn.btn11 {
+        margin-left: 301px;
+    }
+    .sec2{
+        width: 100vh;
+    }
+    img.img-fluid.img5 {
+        display: none;
+    }
+    img.img-fluid.img7 {
+        display: none;
+    }
+    p.txt6 {
+        text-align: left;
+        margin-left: -67px;
+    }
+    .sec3 {
+        display: none;
+    }
+    p.txt7 {
+        font-size: 100px;
+    }
+
+    .sec5 {
+        display: none;
+    }
+    .sec6 {
+        display: none;
+    }
+    .sec7 {
+        display: none;
+    }
+    .sec8{
+        display: none;
+    }
+
+    .row20 {
+        width: 68vh;
+    }
+    
+}
